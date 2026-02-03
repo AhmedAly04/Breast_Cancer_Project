@@ -71,7 +71,7 @@ The model utilizes the following clinical features:
 ## 📈 Model Training
 
 - Primary Algorithm: `RandomForestClassifier`.
- Model Comparison: Benchmarked against Logistic Regression, KNN, Decision Trees, SVM, and Naive Bayes.
+  -Model Comparison: Benchmarked against Logistic Regression, KNN, Decision Trees, SVM, and Naive Bayes.
 - Framework: `scikit-learn`.
 - Steps:
   - Train/Test split (80/20).
