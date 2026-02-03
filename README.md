@@ -32,7 +32,7 @@ It combines machine learning (RandomForestClassifier) with a Streamlit web inter
    A RandomForestClassifier selected after comparing multiple algorithms (Logistic Regression, KNN, SVM, Naive Bayes, and Decision Trees).
    
 6. 🌐 **Interactive Web Interface**  
-   Users can input ride details and get instant fare prediction via a user-friendly Streamlit app.
+   Users can input clinical measurements and get an instant classification via a Streamlit app.
 
 ---
 
