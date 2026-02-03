@@ -26,7 +26,7 @@ It combines machine learning (RandomForestClassifier) with a Streamlit web inter
 
 1. 🎯 Classifies Tumor Type Predicts diagnosis (Malignant/Benign) based on 10 key cell nuclei features.
   
-3. ⚖️ Handles Class Imbalance Uses class_weight='balanced' to ensure the model performs accurately even if the dataset has fewer malignant cases.
+3. ⚖️ Handles Class Imbalance Uses `class_weight='balanced'` to ensure the model performs accurately even if the dataset has fewer malignant cases.
    
 4. 🧠 **Uses an Optimized ML Model**
    A RandomForestClassifier selected after comparing multiple algorithms (Logistic Regression, KNN, SVM, Naive Bayes, and Decision Trees).
