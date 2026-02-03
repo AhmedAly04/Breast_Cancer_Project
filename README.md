@@ -57,7 +57,7 @@ The model utilizes the following clinical features:
 
 #📁 Project Structure
 
-<img width="930" height="647" alt="Gemini_Generated_Image_1by3ab1by3ab1by3" src="https://github.com/user-attachments/assets/661ee4d7-47a7-4bdb-88ed-20bf0948ce42" />
+<img width="390" height="220" alt="Untitled" src="https://github.com/user-attachments/assets/94d9c5a3-38e0-4605-9d67-e9d3f295f4c7" />
 
 ---
 
