@@ -19,7 +19,7 @@ It combines machine learning (RandomForestClassifier) with a Streamlit web inter
 
 ## 🎥 Demo
 
-[Click to Watch Demo][Uploading 2026-02-02 00-22-48.mp4…](https://github.com/user-attachments/assets/b3ad520f-59ea-423b-bb89-134cf59612de)
+[Click to Watch Demo](https://github.com/user-attachments/assets/b3ad520f-59ea-423b-bb89-134cf59612de)
 
 ---
 
