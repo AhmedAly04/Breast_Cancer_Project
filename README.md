@@ -28,10 +28,10 @@ It combines machine learning (RandomForestClassifier) with a Streamlit web inter
   
 3. ⚖️ Handles Class Imbalance Uses `class_weight='balanced'` to ensure the model performs accurately even if the dataset has fewer malignant cases.
    
-4. 🧠 **Uses an Optimized ML Model**
+4. 🧠 **Uses an Optimized ML Model**  
    A RandomForestClassifier selected after comparing multiple algorithms (Logistic Regression, KNN, SVM, Naive Bayes, and Decision Trees).
    
-5. 🌐 **Interactive Web Interface**  
+6. 🌐 **Interactive Web Interface**  
    Users can input ride details and get instant fare prediction via a user-friendly Streamlit app.
 
 ---
