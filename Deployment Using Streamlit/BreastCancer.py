@@ -4,8 +4,8 @@ import numpy as np
 import pickle 
 from sklearn.ensemble import RandomForestClassifier
 
-model_path = r'X:\NTI\ML\Projects\Breast Cancer\Deployment Using Streamlit\BreastCancer_model.pkl'
-pre_path = r'X:\NTI\ML\Projects\Breast Cancer\Deployment Using Streamlit\model_preprocessing.pkl'
+model_path = r'X:\ML\Projects\Breast Cancer\Deployment Using Streamlit\BreastCancer_model.pkl'
+pre_path = r'X:\ML\Projects\Breast Cancer\Deployment Using Streamlit\model_preprocessing.pkl'
 
 with open(model_path, 'rb') as f:
     loaded_model = pickle.load(f)
@@ -55,4 +55,5 @@ if submit:
             st.write(f"The model is **{confidence*100:.2f}%** confident.")
             
     except Exception as e:
+
         st.error(f"Error during calculation: {e}")
