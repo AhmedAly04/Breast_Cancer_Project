@@ -83,6 +83,6 @@ The model utilizes the following clinical features:
 
 ## 🌐 Web App with Streamlit.
 
-- Streamlit form takes user inputs for ride parameters.
+- Streamlit form takes user inputs.
 - Backend loads the trained model and processes features.
 - Prediction Clearly displays the diagnosis and the probability of the result.
