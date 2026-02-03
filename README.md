@@ -12,7 +12,7 @@ It combines machine learning (RandomForestClassifier) with a Streamlit web inter
 - [📁 Project Structure](#-project-structure)
 - [🧼 Data Exploration & Preprocessing](#-data-exploration--preprocessing)
 - [📈 Model Training](#-model-training)
-- [🌐 Web App with Django](#-web-app-with-streamlit)
+- [🌐 Web App with Streamlit](#-web-app-with-streamlit)
 
 ---
 
